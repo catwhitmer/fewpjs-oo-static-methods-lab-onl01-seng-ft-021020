@@ -25,3 +25,4 @@ static titleize(string) {
     }
     return postArray.join(" ");
   }
+}
